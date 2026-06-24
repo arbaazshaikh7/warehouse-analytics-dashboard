@@ -22,7 +22,7 @@ The dashboard provides actionable insights into **inventory, inbound/outbound fl
 
 ## 📸 Dashboard Preview
 
-dashboard.png
+![Dashboard Preview](dashboard.png)
 
 ---
 
